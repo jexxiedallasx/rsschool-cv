@@ -20,3 +20,8 @@ function multiply(a, b){
 }
 
 ## **Experience**
+
+## **Education:**
+
+* **University:** Linguistics University of Nizhni Novgorod
+* **Courses:** Basic(free) Course HTML&CSS by Result School
