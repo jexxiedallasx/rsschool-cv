@@ -13,3 +13,8 @@ I am reliable, dependable and responsible. I am open to new opportunities and st
 ## **Skills**
 * HTML
 * CSS
+
+## **Code Example**
+function multiply(a, b){
+    return a * b
+}
